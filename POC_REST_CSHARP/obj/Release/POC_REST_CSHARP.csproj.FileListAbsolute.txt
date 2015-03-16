@@ -1,0 +1,16 @@
+C:\Users\i834613\Documents\Visual Studio 2012\Projects\POC_REST_CSHARP\POC_REST_CSHARP\bin\Release\POC_REST_CSHARP.exe.config
+C:\Users\i834613\Documents\Visual Studio 2012\Projects\POC_REST_CSHARP\POC_REST_CSHARP\bin\Release\POC_REST_CSHARP.exe.manifest
+C:\Users\i834613\Documents\Visual Studio 2012\Projects\POC_REST_CSHARP\POC_REST_CSHARP\bin\Release\POC_REST_CSHARP.application
+C:\Users\i834613\Documents\Visual Studio 2012\Projects\POC_REST_CSHARP\POC_REST_CSHARP\bin\Release\POC_REST_CSHARP.exe
+C:\Users\i834613\Documents\Visual Studio 2012\Projects\POC_REST_CSHARP\POC_REST_CSHARP\bin\Release\POC_REST_CSHARP.pdb
+C:\Users\i834613\Documents\Visual Studio 2012\Projects\POC_REST_CSHARP\POC_REST_CSHARP\obj\Release\POC_REST_CSHARP.csprojResolveAssemblyReference.cache
+C:\Users\i834613\Documents\Visual Studio 2012\Projects\POC_REST_CSHARP\POC_REST_CSHARP\obj\Release\POC_REST_CSHARP.POC.resources
+C:\Users\i834613\Documents\Visual Studio 2012\Projects\POC_REST_CSHARP\POC_REST_CSHARP\obj\Release\POC_REST_CSHARP.Properties.Resources.resources
+C:\Users\i834613\Documents\Visual Studio 2012\Projects\POC_REST_CSHARP\POC_REST_CSHARP\obj\Release\POC_REST_CSHARP.csproj.GenerateResource.Cache
+C:\Users\i834613\Documents\Visual Studio 2012\Projects\POC_REST_CSHARP\POC_REST_CSHARP\obj\Release\POC_REST_CSHARP.exe.manifest
+C:\Users\i834613\Documents\Visual Studio 2012\Projects\POC_REST_CSHARP\POC_REST_CSHARP\obj\Release\POC_REST_CSHARP.application
+C:\Users\i834613\Documents\Visual Studio 2012\Projects\POC_REST_CSHARP\POC_REST_CSHARP\obj\Release\POC_REST_CSHARP.exe
+C:\Users\i834613\Documents\Visual Studio 2012\Projects\POC_REST_CSHARP\POC_REST_CSHARP\obj\Release\POC_REST_CSHARP.pdb
+D:\misc\POC_REST_CSHARP\POC_REST_CSHARP\bin\Release\POC_REST_CSHARP.exe.config
+D:\misc\POC_REST_CSHARP\POC_REST_CSHARP\obj\Release\POC_REST_CSHARP.exe
+D:\misc\POC_REST_CSHARP\POC_REST_CSHARP\obj\Release\POC_REST_CSHARP.pdb
